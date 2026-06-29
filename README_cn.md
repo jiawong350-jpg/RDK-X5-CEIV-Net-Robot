@@ -119,7 +119,7 @@ python3 -c "from run_system import check_models; check_models()"
 
 ### 3. 拉起主系统闭环
 
-对于语音交互系统的调试，可直接激活已经完成环境配置的隔离 Python 沙盒环境单独测试语音交互内核[cite: 3]：
+对于语音交互系统的调试，可直接激活已经完成环境配置的隔离 Python 沙盒环境单独测试语音交互内核：
 
 ```bash
 cd Voise_Subsystem
